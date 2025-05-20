@@ -10,7 +10,6 @@
 
 👤 **Mohammad Aktar**
 
-* Website: www.linkedin.com/in/mohammad-aktar-539937304
 * Github: [@AQtar-004](https://github.com/AQtar-004)
 * LinkedIn: [@www.linkedin.com\/in\/mohammad-aktar-539937304](https://linkedin.com/in/www.linkedin.com\/in\/mohammad-aktar-539937304)
 
@@ -18,5 +17,4 @@
 
 Give a ⭐️ if this project helped you!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+
